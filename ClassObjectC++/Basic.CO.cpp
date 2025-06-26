@@ -28,7 +28,7 @@ class Hero {
     }
 
     //copy constructor
-    Hero(Hero& temp) {
+    Hero(Hero &temp) {
 
        // char *ch = new char[strlen(temp.name) + 1];
         //strcpy(ch, temp.name);
